@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\sinozicSebastianZapisivanje\sinozicSebastianZapisivanje\obj\Debug\sinozicSebastianZapisivanje.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\sinozicSebastianZapisivanje\sinozicSebastianZapisivanje\obj\Debug\sinozicSebastianZapisivanje.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianZapisivanje\sinozicSebastianZapisivanje\bin\Debug\sinozicSebastianZapisivanje.exe.config
+C:\Users\sebas\source\repos\sinozicSebastianZapisivanje\sinozicSebastianZapisivanje\bin\Debug\sinozicSebastianZapisivanje.exe
+C:\Users\sebas\source\repos\sinozicSebastianZapisivanje\sinozicSebastianZapisivanje\bin\Debug\sinozicSebastianZapisivanje.pdb
+C:\Users\sebas\source\repos\sinozicSebastianZapisivanje\sinozicSebastianZapisivanje\obj\Debug\sinozicSebastianZapisivanje.exe
+C:\Users\sebas\source\repos\sinozicSebastianZapisivanje\sinozicSebastianZapisivanje\obj\Debug\sinozicSebastianZapisivanje.pdb
